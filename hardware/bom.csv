@@ -1,0 +1,15 @@
+item,qty,unit_cost_inr,total_inr,notes,status
+455 kHz side-scan transducer element,2,6000,12000,one per side; exact part TBD,estimate
+AFE and chirp TX driver components,1,8000,8000,MOSFET H-bridge; T/R switch; LNA + VGA (candidate AD8331); 12-bit ADC (candidate AD9226 module),estimate
+FPGA development board (ECP5 class),1,12000,12000,open toolchain (Yosys/nextpnr),estimate
+Raspberry Pi 4 (4 GB) with SD card,1,6000,6000,classifier + mapping,estimate
+GPS + IMU + depth/pressure sensor,1,5000,5000,position and attitude tagging,estimate
+Li-ion battery pack + power board,1,4000,4000,12 V nominal,estimate
+Waterproof housing + O-rings + penetrators,1,8000,8000,30 m depth rating target,estimate
+PCB fabrication and assembly,2,3000,6000,two board revisions,estimate
+3D printing / machining of mounts,1,4000,4000,,estimate
+Software (Python / Yosys / nextpnr / QGIS),1,0,0,open source,confirmed
+Boat hire for field tests,3,3000,9000,per day,estimate
+Travel to Visakhapatnam pilot,1,15000,15000,,estimate
+Test objects and consumables,1,3000,3000,tyre; net; metal targets,estimate
+TOTAL,,,92000,,

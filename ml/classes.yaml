@@ -1,0 +1,22 @@
+# Debris classes for the first classifier version
+classes:
+  - id: 0
+    name: clutter
+    description: natural seabed features (rocks, ripples, vegetation) and noise
+    recyclable_material: none
+  - id: 1
+    name: tyre
+    description: ring-shaped strong reflector with shadow
+    recyclable_material: rubber
+  - id: 2
+    name: net
+    description: bundled or tangled fishing net, diffuse textured return
+    recyclable_material: nylon
+  - id: 3
+    name: metal
+    description: compact very strong reflector (scrap, drums, anchors) with sharp shadow
+    recyclable_material: metal scrap
+out_of_scope_v1:
+  - loose plastic film and bags (weak acoustic targets)
+  - microplastics
+  - chemical pollution
