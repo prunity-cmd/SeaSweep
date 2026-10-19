@@ -1,4 +1,4 @@
-# Hermes Sonar
+# SeaSweep
 
 **A low-cost, low-power side-scan sonar payload for mapping seabed debris and enabling circular-economy recovery of marine waste.**
 
